@@ -1,7 +1,7 @@
 # Game Review for Starsector
 
 ## Details
-Released on Novmenber 16th, 2018, Developed and published by Fractal Softworks, a Role-Playing, Sci-Fi, Action-Adventure Game
+Released on November 16th, 2018, Developed and published by Fractal Softworks, a Role-Playing, Sci-Fi, Action-Adventure Game
 
 ### Game Title
 
