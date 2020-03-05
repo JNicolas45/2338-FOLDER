@@ -21,8 +21,9 @@ While the game is surely outdated it's still being supported by updates here and
 ## Additional Information
 
 Links to other reviews or other information you used in this review.
+
 Quick Youtuber review of Jetpack Joyride: https://www.youtube.com/watch?v=h0fNBwnIhAU
 
 Jetpack Joyride Trailer: https://www.youtube.com/watch?v=Jzxi8nid9BQ
 
-o
+
