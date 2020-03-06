@@ -9,7 +9,7 @@ Can be Found on Steam, on the xbox one game store and the PlayStation store
 
 ### Rating
 
-I rate this game a 3.9/5 because over the years the developers have updated the game with collaboration events, new free weapons, new jumpsuits or cosmetics, new DLC which is better than the main story and more.
+I rate this game a 3.9/5 Over the years the developers have updated the game with collaboration events, new free weapons, new jumpsuits or cosmetics, new DLC which is better than the main story and more which made the game even more better than before. 
 
 ## Summary
 
