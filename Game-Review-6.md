@@ -25,3 +25,5 @@ Kupogames website: http://kupogames.com/category/epic-battle-fantasy-5/
 
 Steam store page for EBF5: https://store.steampowered.com/app/432350/Epic_Battle_Fantasy_5/
 
+Epic Battle Fantasy 5 Wiki: https://epicbattlefantasy.fandom.com/wiki/Epic_Battle_Fantasy_5
+
