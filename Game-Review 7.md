@@ -8,7 +8,7 @@ Published by Bethesda Softworks and developed by Bethesda Game Studios
 Fallout 4, can be found on the Steam Store, Xbox game store, Playstation Network store
 
 ### Rating
-I give this game a solid 4/5 
+I give this game a 3.5/5 
 
 ## Summary
 
