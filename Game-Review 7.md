@@ -5,7 +5,7 @@ Published by Bethesda Softworks and developed by Bethesda Game Studios and relea
 
 ### Game Title
 
-Fallout 4, can be found on the Steam Store, Xbox game store, Playstation Network store. The Game Of the Year Editions can be found for only 20 bucks with all the DLC included. 
+Fallout 4, can be found on the Steam Store, Xbox game store, Playstation Network store. The Game Of the Year Editions can be found for only 20 bucks with all the DLC included even lower during sales.
 
 ### Rating
 With NEXUS MODS it's easily a 4.5/5 as the community basically fixes everything Bethesda coudln't do along with some sweet downloadable content. Without Nexus Mods however it's simply a 3.5/5
