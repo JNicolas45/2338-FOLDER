@@ -16,7 +16,7 @@ Answer: Yes, in the game you have units that use projecile attacks that go on fo
 
 Question: Is this game balanced? If not, what is the target audience for this game based on that imbalance?
 
-Answer: Yes and No. In Campaign mode obviously each map ramps up the difficulty slighty however there are maps that are seemingly impossibly which forces the player to farm other maps to upgrade or get better units. Whenever the AI is close to losing they'll send out "Reinforcement waves" which are just alot of their units stacked and sent out. This is furtherly frustrating as some of those units are strong in numbers and can kill your units when your just inches away from claiming victory. On some maps the AI sends out EPIC TITANS which if not dealt with swiftly can cost you the game. 
+Answer: Yes and No. In Campaign mode obviously each map ramps up the difficulty slighty however there are maps that are seemingly impossibly which forces the player to farm other maps to upgrade or get better units. Whenever the AI is close to losing they'll send out "Reinforcement waves" which are just alot of their units stacked and sent out. This is furtherly frustrating as some of those units are strong in numbers and can kill your units when your just inches away from claiming victory. On some maps the AI sends out EPIC TITANS which if not dealt with swiftly can cost you the game. Finally some units are better than most units ie you can stunlock foes if you hit them first and vice versa that is why when the player gets the "Tiger Warrior" you just won the game as their attack speed is godlike meaning you'll win most of your matchups but obviously not against big boi Titans. 
 
 Question: Does the timing of this game appear to be about right for this type of game?
 
