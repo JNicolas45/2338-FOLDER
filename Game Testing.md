@@ -12,11 +12,11 @@ Answer: The rules were simple enough to follow ie destroy the enemy base before 
 
 Question: During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
 
-Answer: Yes, in the game you have units that use projecile attacks that go on forever until it hits a foe. I truly believe shorting the range  would be better as that seems fair as the AI on some levels spam units whose proejctiles can go far and seemlingly beat you especially on TRIAL stages which furtherly increases frustration but with hefty rewards. This is fixed in Epic War 5.
+Answer: Yes, in the game you have units that use projecile attacks that go on forever until it hits a foe. I truly believe shorting the range  would be better as that seems fair as the AI on some levels spam units whose proejctiles can go far and seemlingly beat you especially on TRIAL stages which furtherly increases frustration. Also as a pet peeve you CANNOT get a certain HERO unless you're a Kongregate member. Either way the player isn't missing out on anything special besides a fast unit. 
 
 Question: Is this game balanced? If not, what is the target audience for this game based on that imbalance?
 
-Answer: Yes and No. In Campaign mode obviously each map ramps up the difficulty slighty however there are maps that are seemingly impossibly which forces the player to farm other maps to upgrade or get better units. Whenever the AI is close to losing they'll send out "Reinforcement waves" which are just alot of their units stacked and sent out. This is furtherly frustrating as some of those units are strong in numbers and can kill your units when your just inches away from claiming victory. On some maps the AI sends out EPIC TITANS which if not dealt with swiftly can cost you the game. Finally some units are better than most units ie you can stunlock foes if you hit them first and vice versa that is why when the player gets the "Tiger Warrior" you just won the game as their attack speed is godlike meaning you'll win most of your matchups but obviously not against big boi Titans. 
+Answer: Yes and No. In Campaign mode obviously each map ramps up the difficulty slighty however there are maps that are seemingly impossibly which forces the player to farm other maps ot obtain more gold to upgrade or get better units. Some units are better than most units ie you can stunlock foes if you hit them first and vice versa that alone is frustrating and hardly balanced as you have a certain limit to units you can have on the field meanwhile the AI doesn't. According to the update logs updates have been made to where enemy bases aren't as spongey and those lovely gold exploits are now fixed. To help players we can get spells to aid us on our quest though really you'll only be using 3 out of 12 spells as its a no brainer that Invincibility which makes your units unkillable for a few seconds, BERZERK makes your units CRIT doing more damage, and Comet to save you in a pinch are more useful than the other 9 spells. 
 
 Question: Does the timing of this game appear to be about right for this type of game?
 
@@ -24,12 +24,12 @@ Answer: The game was released in 2010 when Kongregate.com had many of its greate
 
 Question: During gameplay did the mechanics and theme go together and reinforce each other?
 
-Answer: Absoulutely as the game is called EPIC WAR 4, the music fits very well, the theme of the various exotic units you can unlock and go against and the bosses you go up against as well. It isn't called EPIC WAR 4 for nothing. 
+Answer: Absoulutely as the game is called EPIC WAR 4, the music fits very well, the theme of the various exotic units you can unlock and go against and the bosses you go up against as well. It isn't called EPIC WAR for nothing. 
 
 Question: Did you have fun playing this game?
 
-Answer: Again absoulutly even after all this time the game still holds up 10 years later. 
+Answer: Again absoulutly even after all this time the game still holds up 10 years later. Hearing the soundtrack after all this time is the icing on the cake as to me its one of the most memorable things about the game or rather for all EPIC WAR games. 
 
 Question: During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
 
-Answer: The game sometimes loses your save file and makes you start all over again, this was however adressed and was fixed although sometimes it just happens. On the TRIALS maps whenever you defeat the map ie destroy the enemy base instead of telling you "YOU WIN!" the game'll just sit there for a few mins and then proceeds to the "YOU WIN!" screen. This reoccurs alot in the TRIALS maps. Welcomed or not i guess after all this time it still hasn't been fixed. 
+Answer: The game sometimes loses your save file and makes you start all over again even if you're logged into your Kongregate account. On most maps whenever you defeat the map ie destroy the enemy base instead of telling you "YOU WIN!" the game'll just sit there for a few mins and then proceeds to the "YOU WIN!" screen. Welcomed or not i guess after all this time it still hasn't been fixed. Finally another issue with the game since it came from an earlier time is that when you press retreat or fallback units do not automatically go back they instead finish their attack animation and then fall back which causes the player to lose a majority of their units 
