@@ -2,7 +2,7 @@
 
 ## Summary
 
-Me and my fellow teammebers have agreed to play DyingLight on systems we each prefer with mine being specifcally PC. I understand that since we all use different systems we may vary on issues we encounter. 
+Me and my team have agreed to play Dying Light on systems we each prefer with mine being PC. I understand that since we all use different systems we may vary on issues we encounter. 
 
 ## Environment/User Community
 
@@ -61,6 +61,7 @@ playtesting
 * List any business requirements (list)
 
 ### Software/Game Functions
+PC REQUIREMENTS BELOW
 
 * List any software requirements (list)
 RECOMMENDED:
