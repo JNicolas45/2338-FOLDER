@@ -9,15 +9,14 @@ So me and my team Played Dying Light on our selective device of choice. Each of 
 
 #### Number of Test performed
 
-With my tests on PC i've tried everything about 4 times to see if it would persist. One problem re-occuring is exiting the game and then rapidly trying to open the game only to be given an error saying how the game is running please wait. Another one i couldn't help but laugh throughout was playing in co-op and witnessing my partner dissapear during a cutscene only to reappear again.
-
+With my tests on PC i've tried everything about 4 times to see if it would persist meaning to see if it would always occur i would re-load my game. One problem re-occuring is exiting the game and then rapidly trying to open the game only to be given an error saying how the game is. My team members are playing on consoles so they may get different ploblems/bugs than the ones i've encountered. 
 #### Number of Defects
 
 (Paragraph)
 
 #### Requirements Status
 
-(Paragraph)
+Yes, so when i ran my tests they came out to be as expected..
 * According to your test plan requirements did your test case runs meet your listed requirements.
 
 ### Test Environment
