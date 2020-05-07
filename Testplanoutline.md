@@ -28,7 +28,7 @@ Briefly describe what is being tested and any inputs needed for testing
 
 ## Test Team
 
-Who is on the team and what is their role/assignment
+Matthew and Angel, one is testing on the Playstation and the other is testing on the Xbox. As stated since we're playing on different devices each of us may enocunter something different that the others can't be able to find or see. 
 
 ## Milestones
 
