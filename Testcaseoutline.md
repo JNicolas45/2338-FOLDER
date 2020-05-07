@@ -43,7 +43,7 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | Me (Justus) playing on PC i've listed as mentioned 10 bugs/issues that i've found from April 1st-May 1st | The tests conducted were by me and my Steam pals. | Most bugs we've encountered were just silly and hardly game breaking with the exception of the solo duplication glitch? As only a few made me infuriated. There were also other bugs/issues that were encountered as well. |			
+| 1 | Me (Justus) playing on PC i've listed as mentioned 10 bugs/issues that i've found from April 1st-May 1st | The tests conducted were by me and my Steam pals. | Most bugs we've encountered were just silly and hardly game breaking with the exception of the solo duplication glitch? As only a few made me infuriated. There were also other bugs/issues that were encountered as well. That i haven't listed above. |			
 | 2 | Matthew plays a version on the Playstation 4| |He's ecountered 10 errors/bugs on his selective system |			
 | 3 | Angel plays a version on the Xbox One | |He's ecountered 10 errors/bugs on his selective system|			
 
