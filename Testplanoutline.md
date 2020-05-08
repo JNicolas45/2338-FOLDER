@@ -2,7 +2,7 @@
 
 ## Summary
 
-Me and my team have agreed to play Dying Light on systems we each prefer with mine being PC. I understand that since we all use different systems we may vary on issues we encounter. 
+Me and my team have agreed to play Dying Light on systems we each prefer with mine being PC. I understand that since we all use different systems to play we may vary on the kinds of problems we may encounter. 
 
 ## Environment/User Community
 
@@ -10,11 +10,11 @@ Me and my team will be conducting our tests on PC, Xbox and Playstation systems.
 
 ## Test Objectives
 
-As a team since we all play on different systems we will try to encounter bugs/issues while we play the game, we will note how the bug/issue was encountered, how often it happens, how did we solve the issue, consider if the issue is re-occuring, and how to prevent future issues. 
+As a team since we all play on different systems we will try to encounter bugs/issues while we play the game, we will note how the bug/issue was encountered, how often it happens, how did we solve the issue, consider if the issue is re-occuring, and how to prevent future issues if possible. 
 
 ## Acceptance Criteria
 
-Realistically since we all play on different systems and that problems may vary for each of us i'm thinking we should at least enocunter 10 bugs/issues as that seems like a fair amount for an old gagme constantly being backed by the community and developers. 
+Realistically since we all play on different systems and that problems may vary for each of us i'm thinking we should at least enocunter 10 bugs/issues as that seems like a fair amount for an old gagme constantly being backed by the community and developers. So surely there's still plent of bugs roaming around.  
 
 ## References
 
@@ -24,11 +24,12 @@ Realistically since we all play on different systems and that problems may vary 
 # Section 2: Plan
 ## Test Description
 
+My and my team are looking for bugs/issues even if most are wacky, but considering this is an old game there is bound to be more than what we imagined. So for PC i'm testing AI pathfinding, the PC only duplication glitch, cinamatic cutscene bugs, Dying Light not running even though it is error on Steam, non-existent sound for a brief moment when joining a persons game, 
 Briefly describe what is being tested and any inputs needed for testing
 
 ## Test Team
 
-Matthew and Angel, one is testing on the Playstation and the other is testing on the Xbox. As stated since we're playing on different devices each of us may enocunter something different that the others can't be able to find or see. 
+Matthew and Angel, one is testing on the Playstation4  and the other is testing on the Xbox One. As stated since we're playing on different devices each of us may enocunter something different that the others can't be able to find or see. 
 
 ## Milestones
 
