@@ -23,8 +23,8 @@ I Justus (PC) will discuss what I've found with the team and see if they too enc
 
 ## Additional tasks to add
 
-- Discuss whether or not the bugs we've all encountered the same bug
-- Discuss how we orginally found the issue/bug
+- Discuss whether or not we've all encountered the same bug, and if possible explain how we got it
+- Discuss how we orginally found each issue/bug we've and discuss if there's another way to encounter them
 - Discuss if our findings are game breaking or simply just a bug/issue
 - Discuss how we potentially solved our bug/issues we've found and discuss if that problem may exist on different platforms as well
 
