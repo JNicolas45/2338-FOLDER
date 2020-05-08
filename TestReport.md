@@ -9,7 +9,7 @@ So me and my team Played Dying Light on our selective device of choice. Each of 
 
 #### Number of Test performed
 
-With my tests on PC i've tried everything about 4 times to see if it would persist meaning to see if it would always occur i would re-load my game. One problem re-occuring is exiting the game and then rapidly trying to open the game only to be given an error saying how the game is. My team members are playing on consoles so they may get different ploblems/bugs than the ones i've encountered. 
+With my tests on PC i've tried everything about 4 times to see if it would persist to see if it would always occur i would re-load my game. One problem re-occuring is exiting the game and then rapidly trying to open the game only to be given an error saying how the game is already running. My team members are playing on consoles so they may get different ploblems/bugs than the ones i've encountered. 
 #### Number of Defects
 
 (Paragraph)
