@@ -30,8 +30,8 @@ I Justus (PC) will discuss what I've found with the team and see if they too enc
 
 ## What has been completed and date of completion
 
-* As a team we've all found 10 bugs/issues 5/9/20
-* We've discussed most of our findings can be found on other platforms 5/9/20
+* As a team we've all found 10 bugs/issues on our respective platform of choice 5/9/20
+* We've discussed some of our findings can also found on other platforms 5/9/20
 * As a team we've discussed and agreed on what can be improved or removed to make the game more enjoyable 5/9/20
 * We discussed how we found our bugs/issues and how we resolved them or if we simply let them be 5/9/20
 
