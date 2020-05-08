@@ -12,11 +12,11 @@ So me and my team Played Dying Light on our selective device of choice. Each of 
 With my tests on PC i've tried everything about 4 times to see if it would persist to see if it would always occur i would re-load my game. One problem re-occuring is exiting the game and then rapidly trying to open the game only to be given an error saying how the game is already running. My team members are playing on consoles so they may get different ploblems/bugs than the ones i've encountered. 
 #### Number of Defects
 
-(Paragraph)
+For the PC version again being run on a DELL G3 17 i have encountered several issues. One of them is being sound issues, there was an instance where a vehicle blew up but there would be no sound, only a few seconds later the sound would be present. Originally i ran my game on low settings and to my surprise i encountered more problems on the HIGHEST settings as my game would lag therefor the sounds, actions being done and events happening would be slowed to a crawl but only temporarily. 
 
 #### Requirements Status
 
-Yes, so when i ran my tests they came out to be as expected..
+Yes, so when i ran my tests they came out to be as expected especially as mentioned about running the game on the HIGHEST settings would result in the game lagging behind a bit. But overall all the tests i've done so far were as expected. Except for the GAME ERROR mess. That woud only occur if i would make haste and re-open the game seconds after closing the game and returning to my Desktop. Sometimes my computer would freeze and force me to restart if i kept doing this.
 * According to your test plan requirements did your test case runs meet your listed requirements.
 
 ### Test Environment
@@ -25,11 +25,11 @@ Yes, so when i ran my tests they came out to be as expected..
 
 #### Hardware Configuration
 
-Originally i ran the game on low settings and would swtich it to HIGH settings time to time to see if anything else would occur. 
+Originally i ran the game on low settings and would swtich it to HIGH settings time to time to see if anything major would occur. 
 
 ### Recommendation
 
-(Paragraphs)
+(One of the biggest recommendations was the addition of more weapons and such but over the course of the past years and even now the game has been getting update after update adding new surprises such as new weapons and outfits. This is further suppourted with mods from the Steam Workshop.) In the beggining of the game without surgarcoating anything: You're going to suck, and it seems unfair for player but as with every game you got to suck in order to get good. Was oringally recommending a difficult tweak near the beggining of the game but that suggestion was scrapped as you have to learn to adapt if you want to survive, keep at it and you'll be a God eventually with the skills you've invested.  
 * Very technical summary of the results and where things can be improved or what course of action the game should take as a result of the testing.
 
 
