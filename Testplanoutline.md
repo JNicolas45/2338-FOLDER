@@ -19,7 +19,7 @@ Realistically since we all play on different systems and that problems may vary 
 ## References
 
 * List any reference documents
-(Websites with known issues for whatever platform etc)
+* https://harryperry999.wordpress.com/year-12/design-fundamentals/testing/01-unit-77-understanding-the-types-of-defects-in-a-game-build/
 
 # Section 2: Plan
 ## Test Description
