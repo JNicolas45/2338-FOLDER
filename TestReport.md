@@ -9,7 +9,7 @@ My team and I Played Dying Light on our selective device of choice. Each of us p
 
 #### Number of Test performed
 
-With my tests on PC i've tried everything about 4 times to see if it would persist to see if it would always occur i would re-load my game. One problem re-occuring is exiting the game and then rapidly trying to open the game only to be given an error saying how the game is already running. My team members are playing on consoles so they may get different ploblems/bugs than the ones i've encountered. 
+With my tests on PC i've tried everything about 4 times to see if it would persist to see if it would always occur. Out of frustration i did in fact restarted my pc completely on some cases as i was too frustrated to figure out a fix. My team members are playing on consoles so they may get different ploblems/bugs than the ones i've encountered. 
 #### Number of Defects
 
 For the PC version again being run on a DELL G3 17 i have encountered several issues. One of them is being sound issues, there was an instance where a vehicle blew up but there would be no sound, only a few seconds later the sound would be present. Originally i ran my game on low settings and to my surprise i encountered more problems on the HIGHEST settings as my game would lag therefor the sounds, actions being done and events happening would be slowed to a crawl but only temporarily. 
@@ -25,7 +25,7 @@ Yes, so when i ran my tests they came out to be as expected especially as mentio
 
 #### Hardware Configuration
 
-Originally i ran the game on low settings and would swtich it to HIGH settings time to time to see if anything major would occur. 
+On a DELL G3 17 laptop Originally i ran the game on low settings and would switch it to HIGH settings time to time to see if anything major would occur in which as expected errors/bugs did occur. 
 
 ### Recommendation
 
@@ -47,4 +47,4 @@ Originally i ran the game on low settings and would swtich it to HIGH settings t
 
 | Defect ID | Description | Severity | Associated Test ID or Requirement |
 |---|---|---|---|
-| Timing Defect| On my DELL G3 17 Laptop and playing the game on the Highest settings I've encountered several times where the audio wouldn't register correctly ie a car exploding yet there's no sound for it only seconds later would it register and play the sound, When the Volatiles would scream upon seeing you i would hear nothing until they are straight in my face. | It's severe to a point where i have to lower my settings to the lowest in order to get everything working or i'd have to reload my game.| |
+| Timing Defect| On my DELL G3 17 Laptop and playing the game on the Highest settings I've encountered several times where the audio wouldn't register correctly ie a car exploding yet there's no sound for it only seconds later would it register and play the sound, When the Volatiles would scream upon seeing you i would hear nothing until they are straight up in my face. | It's severe to a point where i have to lower my settings to the lowest in order to get everything working or i'd have to reload my game.| |
