@@ -12,7 +12,7 @@ Answer: The rules were simple enough to follow ie destroy the enemy base before 
 
 * Question: During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
 
-Answer: Yes, in the game you have units that use projectile attacks that go on forever until it hits a foe. I truly believe shorting the range would be better as that seems fair as the AI on some levels spams units whose projectiles can go far and seemingly beat you especially on TRIAL stages which furtherly increases frustration. Also as a pet peeve, you CANNOT get a certain HERO unless you're a Kongregate member. Either way, the player isn't missing out on anything special besides a fast unit. 
+Answer: Yes, in the game you have units that use projectile attacks that go on forever until it hits a foe or the enemy base. I truly believe shorting the range would be better as that seems fair as the AI on some levels spams projectiles units to go ham on you and seemingly beat you especially on TRIAL stages which are increasingly difficult.
 
 * Question: Is this game balanced? If not, what is the target audience for this game based on that imbalance?
 
