@@ -22,7 +22,7 @@ Answer: Yes and No. In Campaign mode each map ramps up the difficulty slightly h
 
 Answer: The game was released in 2010 when Kongregate.com had many of its greatest gems released as there was and still is a bunch of variety of games to play so yes the timing was right. 
 
-Question: During gameplay did the mechanics and theme go together and reinforce each other?
+* Question: During gameplay did the mechanics and theme go together and reinforce each other?
 
 Answer: Absoulutely as the game is called EPIC WAR 4 so you'll be seeing golems, mythical creatures, Gods and other weird and absurd things as well, the music also fits very well. It isn't called EPIC WAR for nothing. 
 
