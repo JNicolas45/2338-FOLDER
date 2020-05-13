@@ -5,11 +5,11 @@
 * Test Case ID:
   * #Number
 * Test Case Name:
-  * #Number
+  * Dying Light bugs/shenanigans
 * Component: 
   * Description
 * Test Case Designer:
-  * Name
+  * Justus Nicolas
 * Creation Date:
   * 5/9/20
 * Modified By:
@@ -17,7 +17,7 @@
 * Modified Date:
   * 5/9/20
 * Requirements Covered:
-  * Selecting bugs/issues, noting down if they were game breaking, frustrating, or wacky.
+  * Finding bugs/issues, noting down if they were game breaking, frustrating, reoccurring or wacky.
 * Test Description/Purpose:
   * Describing 10 bugs/issues i've encountered during my gameplay of Dying Light on (PC DELL G3 17)
 * Pre-Test Conditions:
