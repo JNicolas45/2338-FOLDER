@@ -19,7 +19,7 @@ Since we all play on different systems and that problems may vary for each of us
 ## References
 
 * https://harryperry999.wordpress.com/year-12/design-fundamentals/testing/01-unit-77-understanding-the-types-of-defects-in-a-game-build/
-
+* Steam Community Dying Light discussion threads 
 # Section 2: Plan
 ## Test Description
 
@@ -63,7 +63,6 @@ playtesting
 ### Software/Game Functions
 PC REQUIREMENTS BELOW
 
-* List any software requirements (list)
 RECOMMENDED:
 OS: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit
 Processor: Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz
