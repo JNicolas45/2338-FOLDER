@@ -44,7 +44,7 @@
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 | Me (Justus) playing on PC i've listed as mentioned 10 bugs/issues that i've found from April 1st-May 1st | The tests conducted were by me and my Steam pals. | Most bugs we've encountered were just silly and hardly game breaking with the exception of the solo duplication glitch? Meanwhile some did get me frustrated as i was looking for a workaround that didn't involve in me restarting my computer. There were also other bugs/issues that were encountered as well that i haven't listed above but i've placed these under the "common" ones we've encountered. Finally to conclude most issues were fixed out of my frustration to find a fix for them by simply restarting my pc completely or reloading my current game. |			
-| 2 | Matthew plays a version on the Playstation 4| |He's ecountered 10 errors/bugs on his selective system |			
-| 3 | Angel plays a version on the Xbox One | |He's ecountered 10 errors/bugs on his selective system|			
+| 2 | Matthew plays a version on the Playstation 4| Run by Matthew |He's ecountered 10 errors/bugs on his selective system |			
+| 3 | Angel plays a version on the Xbox One | Run By Angel |He's ecountered 10 errors/bugs on his selective system|			
 
 
