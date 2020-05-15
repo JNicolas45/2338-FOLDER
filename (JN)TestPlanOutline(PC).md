@@ -32,8 +32,7 @@ Matthew and Angel, one is testing on the Playstation 4 and the other is testing 
 
 ## Milestones
 
-* Testing Locations, events, test phases and dates of testing
-
+* Playtesting ran from April - May
 ## Budgets
 
 Funds allocated to testing by task
@@ -41,7 +40,7 @@ Funds allocated to testing by task
 ## Testing
 ### Requirements
 
-Resource requirements, equipment, software/hardware, tester with special skill set
+DELL G3 17 With settings set to HIGH in-game
 
 ### Testing Materials/Test Tools
 
@@ -49,8 +48,7 @@ On the PC i'm using notepad and stickynotes to write down any bugs/issues i've b
 
 ### Test Training
 
-Personnel training, types of training/training staff - could include acceptance testing or
-playtesting
+PlayTesting 
 
 # Section 3: Specifications and Evaluations
 
@@ -58,7 +56,7 @@ playtesting
 
 ### Business Rules/Functions
 
-* List any business requirements (list)
+* Listing bugs/errors encountered during gameplay. 
 
 ### Software/Game Functions
 PC REQUIREMENTS BELOW
@@ -100,7 +98,7 @@ Describe how progression is made from one test to another
 
 ### Test Methodology
 
-Describe testing strategy/types of testing or any other methodology
+Constantly saving especially before an error/bug occurrs then if possible reloading the save to see if the bug/error can be encountered again. 
 
 ### Extent of Testing
 
