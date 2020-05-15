@@ -7,7 +7,7 @@
 * Test Case Name:
   * Dying Light bugs/shenanigans
 * Component: 
-  * Description
+  * DELL G3 17
 * Test Case Designer:
   * Justus Nicolas
 * Creation Date:
